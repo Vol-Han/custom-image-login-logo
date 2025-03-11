@@ -1,6 +1,6 @@
 # Custom Image Login Logo
 
-![Custom Image Login Logo](assets/screenshot-1.jpg)
+![Custom Image Login Logo](assets/banner-1544x500.jpg)
 
 Customize the WordPress login page by adding a custom logo, changing the link, and ensuring full responsiveness.
 
